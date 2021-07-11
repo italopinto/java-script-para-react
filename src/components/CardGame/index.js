@@ -4,7 +4,7 @@
 import "./style.css";
 
 function CardGame() {
-  return `
+  return /*html*/`
     <arcticle class="card-game">
       <img src="images/alura-pixel 1.svg" alt="Logo da Alura">
     </arcticle>
