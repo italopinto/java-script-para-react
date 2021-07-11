@@ -1,8 +1,8 @@
+import "./style.css"
+
 function PlayerName(name) {
   return /*html*/`
-    <arcticle class="player-name">
-      <p>${name}</p>
-    </arcticle>
+      <p class="player-name">${name}</p>
   `
 }
 
